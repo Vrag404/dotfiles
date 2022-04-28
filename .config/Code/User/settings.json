@@ -1,0 +1,39 @@
+{
+    "glassit.alpha": 250,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.colorTheme": "Blakai Theme",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.renderWhitespace": "none",
+    "tabnine.experimentalAutoImports": true,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.autoClosingBrackets": "always",
+    "editor.overviewRulerBorder": false,
+    "editor.renderLineHighlight": "none",
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.matchBrackets": "never",
+    "editor.occurrencesHighlight": false,
+    "workbench.statusBar.visible": false,
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 13.5,
+    
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontWeight": 200,
+    "files.autoSave": "afterDelay",
+    "window.menuBarVisibility": "toggle",
+    "workbench.startupEditor": "none",
+    "workbench.editor.showTabs": false,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "files.associations": {
+        "*.html": "html",
+        "*.js": "javascript"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.activityBar.visible": false,
+    
+}
