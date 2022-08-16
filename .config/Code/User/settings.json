@@ -1,7 +1,5 @@
 {
-    "glassit.alpha": 250,
-    "editor.minimap.enabled": false,
-    "breadcrumbs.enabled": false,
+    "glassit.alpha": 245,
     "workbench.colorTheme": "Blakai Theme",
     "editor.fontFamily": "JetBrains Mono",
     "editor.renderWhitespace": "none",
@@ -17,11 +15,10 @@
     "workbench.statusBar.visible": false,
     "terminal.integrated.fontFamily": "JetBrains Mono",
     "editor.fontSize": 13.5,
-    
     "editor.fontLigatures": true,
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.fontWeight": 200,
-    "files.autoSave": "afterDelay",
+    "files.autoSave": "off",
     "window.menuBarVisibility": "toggle",
     "workbench.startupEditor": "none",
     "workbench.editor.showTabs": false,
@@ -31,9 +28,30 @@
         "*.html": "html",
         "*.js": "javascript"
     },
-    "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
+    // "[html]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // },
+    "gitlens.gitCommands.skipConfirmations": [
+        "fetch:command",
+        "switch:command",
+        "branch-create:command"
+    ],
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    // "[javascript]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // },
+    // "[javascriptreact]": {
+    //     "editor.defaultFormatter": "vscode.typescript-language-features"
+    // },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    // "[typescript]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // },
+    "breadcrumbs.enabled": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.minimap.enabled": false,
     "workbench.activityBar.visible": false,
     
 }
