@@ -4,5 +4,4 @@
 
 <h2>Preview:</h2>
 
-![image](https://user-images.githubusercontent.com/88698720/165876016-9b3f1468-f5e0-441b-bc83-5e2692175ed7.png)
 ![image](https://user-images.githubusercontent.com/88698720/165877297-13b575f2-89f9-4444-8908-ee218cfdc0ba.png)
