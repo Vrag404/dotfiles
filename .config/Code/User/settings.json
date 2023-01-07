@@ -1,57 +1,57 @@
 {
-    "glassit.alpha": 245,
-    "workbench.colorTheme": "Blakai Theme",
-    "editor.fontFamily": "JetBrains Mono",
-    "editor.renderWhitespace": "none",
-    "tabnine.experimentalAutoImports": true,
-    "editor.scrollbar.horizontal": "hidden",
-    "editor.scrollbar.vertical": "hidden",
-    "editor.autoClosingBrackets": "always",
-    "editor.overviewRulerBorder": false,
-    "editor.renderLineHighlight": "none",
-    "editor.hideCursorInOverviewRuler": true,
-    "editor.matchBrackets": "never",
-    "editor.occurrencesHighlight": false,
-    "workbench.statusBar.visible": false,
-    "terminal.integrated.fontFamily": "JetBrains Mono",
-    "editor.fontSize": 13.5,
-    "editor.fontLigatures": true,
-    "terminal.integrated.fontSize": 14,
-    "terminal.integrated.fontWeight": 200,
-    "files.autoSave": "off",
-    "window.menuBarVisibility": "toggle",
-    "workbench.startupEditor": "none",
-    "workbench.editor.showTabs": false,
-    "explorer.confirmDragAndDrop": false,
-    "workbench.iconTheme": "material-icon-theme",
-    "files.associations": {
-        "*.html": "html",
-        "*.js": "javascript"
-    },
-    // "[html]": {
-    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
-    // },
-    "gitlens.gitCommands.skipConfirmations": [
-        "fetch:command",
-        "switch:command",
-        "branch-create:command"
-    ],
-    "git.autofetch": true,
-    "git.confirmSync": false,
-    "explorer.confirmDelete": false,
-    // "[javascript]": {
-    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
-    // },
-    // "[javascriptreact]": {
-    //     "editor.defaultFormatter": "vscode.typescript-language-features"
-    // },
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    // "[typescript]": {
-    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
-    // },
-    "breadcrumbs.enabled": false,
-    "liveServer.settings.donotVerifyTags": true,
-    "editor.minimap.enabled": false,
-    "workbench.activityBar.visible": false,
-    
+  "glassit.alpha": 225,
+  "workbench.colorTheme": "Celestial",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.renderWhitespace": "none",
+  "tabnine.experimentalAutoImports": true,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.autoClosingBrackets": "always",
+  "editor.overviewRulerBorder": false,
+  "editor.renderLineHighlight": "none",
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.matchBrackets": "never",
+  "editor.occurrencesHighlight": false,
+  "workbench.statusBar.visible": false,
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 12.5,
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.fontWeight": 200,
+  "files.autoSave": "off",
+  "workbench.startupEditor": "none",
+  "workbench.editor.showTabs": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "files.associations": {
+    "*.html": "html",
+    "*.js": "javascript"
+  },
+  // "[html]": {
+  //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  "gitlens.gitCommands.skipConfirmations": [
+    "fetch:command",
+    "switch:command",
+    "branch-create:command"
+  ],
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "explorer.confirmDelete": false,
+  // "[javascript]": {
+  //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  // "[javascriptreact]": {
+  //     "editor.defaultFormatter": "vscode.typescript-language-features"
+  // },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "liveServer.settings.donotVerifyTags": true,
+  "window.menuBarVisibility": "toggle",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  // "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // "editor.formatOnSave": true,
+  // "workbench.activityBar.visible": false
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "workbench.activityBar.visible": false,
 }
