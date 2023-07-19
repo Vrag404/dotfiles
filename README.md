@@ -1,5 +1,5 @@
 
-## Extensions
+## VScode Extensions
 
 To install all my extensions, just run this command.
 
