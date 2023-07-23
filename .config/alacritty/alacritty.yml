@@ -8,11 +8,10 @@ env:
 
 ## window settings
 window:
-  opacity: 1
+  opacity: 0.8
   padding:
-    x: 30
+    x: 20
     y: 20
-
 
 # Class (window name)
 class:
@@ -61,8 +60,7 @@ font:
     family: Iosevka NF
     style: Bold Italic
 
-  size: 10
-
+  size: 8
 
   glyph_offset:
     x: 0

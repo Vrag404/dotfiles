@@ -4,20 +4,16 @@
 
 # terminal emulator
 super + Return
-	cool-retro-term
+	alacritty
 
 # program launcher
 super + d
-	dmenu_run
+	rofi -show drun -show-icons
 
-# screenshot app
+
+# screenshot
 Print
 	flameshot gui
-
-# browser
-super + a
-	firefox
-
 
 # make sxhkd reload its configuration files:
 super + Escape
