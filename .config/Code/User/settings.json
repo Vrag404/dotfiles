@@ -1,0 +1,56 @@
+{
+    "glassit.alpha": 225,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.renderWhitespace": "none",
+    "tabnine.experimentalAutoImports": true,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.autoClosingBrackets": "always",
+    "editor.overviewRulerBorder": false,
+    "editor.renderLineHighlight": "none",
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.matchBrackets": "never",
+    "editor.occurrencesHighlight": "off",
+    "workbench.statusBar.visible": false,
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 15,
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontWeight": 200,
+    "files.autoSave": "off",
+    "workbench.startupEditor": "none",
+    "workbench.editor.showTabs": "single",
+    "explorer.confirmDragAndDrop": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "files.associations": {
+      "*.html": "html",
+      "*.js": "javascript"
+    },
+    "gitlens.gitCommands.skipConfirmations": [
+      "fetch:command",
+      "switch:command",
+      "branch-create:command"
+    ],
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "window.menuBarVisibility": "toggle",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.addMissingImports": "explicit"
+    },
+    "window.zoomLevel": 1,
+    "terminal.integrated.env.linux": {},
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.colorTheme": "Celestial",
+    "cSpell.userWords": [
+      "ipaddr",
+      "rusqlite"
+    ],
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.location": "hidden"
+  }
