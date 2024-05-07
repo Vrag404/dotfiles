@@ -4,12 +4,15 @@
 
 # terminal emulator
 super + Return
-	alacritty
+	kitty
 
 # program launcher
 super + d
-	rofi -show drun -show-icons
+	rofi -show drun -theme ~/.config/rofi/config.rasi
 
+# program launcher
+super + @space
+	dmenu_run
 
 # screenshot
 Print
